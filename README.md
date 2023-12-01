@@ -28,7 +28,9 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) instalado em seu ambiente 
     ```
 
 4. Inicie o aplicativo com Expo Go:
+
    ```bash
-    npx expo start
+    npx expo start --tunnel
     
     ```
+ 
