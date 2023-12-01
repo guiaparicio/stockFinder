@@ -2,6 +2,9 @@
 
 Bem-vindo ao Stock Finder, o seu aplicativo de busca e acompanhamento de ações, fundos imobiliários, ETFs e muito mais! Com o Stock Finder, você pode facilmente encontrar informações sobre diferentes ativos financeiros e acompanhar seus preços em tempo real.
 
+## Objetivo do Projeto
+Apenas estudo de React Native + Expo GO
+
 ## Instalação
 
 Certifique-se de ter o [Node.js](https://nodejs.org/) instalado em seu ambiente de desenvolvimento.
